@@ -20,6 +20,6 @@ Add to `~/.config/waybar/config.jsonc`:
 }
 ```
 
-Copy `waybar/style.css` into your Waybar config. Requires Font Awesome 6 Free Solid.
+Copy `waybar/style.css` into your Waybar config. It uses FontAwesome Icons.
 
 Reload: `killall -SIGUSR2 waybar`
